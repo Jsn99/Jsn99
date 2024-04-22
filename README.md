@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Bruno Dsouza</h1>
 <h3 align="center">Back-End Developer</h3>
 
-- 🌱 I’m currently learning **NoodeJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **JavaScript**
 
