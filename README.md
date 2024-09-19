@@ -1,21 +1,58 @@
-<h1 align="center">Hi 👋, I'm Jason Bruno Dsouza</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">Hi there, I'm Jason Bruno Dsouza 👋</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **NodeJS**
-
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **jasondsouza99@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> •
+  <a href="mailto:jasondsouza99@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsn99&show_icons=true&locale=en&layout=compact" alt="jsn99" /></p>
+### 👨‍💻 About Me
+- 🌱 Currently working on **Microservices**
+- 🔍 Learning **C#, .NET, React, and Redux**
+- 💬 Ask me about **JavaScript** and **web development**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsn99&show_icons=true&locale=en" alt="jsn99" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsn99&" alt="jsn99" /></p>
+### 🛠️ Languages and Tools
+<p>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/net/learn/dotnet/what-is-dotnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🚀 Latest Projects
+- **[Project 1](https://github.com/yourusername/project1)**: Brief description of what it does.
+- **[Project 2](https://github.com/yourusername/project2)**: Brief description of what it does.
+- **[Project 3](https://github.com/yourusername/project3)**: Brief description of what it does.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsn99&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsn99&theme=radical" alt="Streak Stats" />
+</p>
+
+---
+
+### 🌐 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jsn99&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 How to Reach Me
+Feel free to reach out via [Email](mailto:jasondsouza99@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin).
+
+---
+
+<p align="center">Made with ❤️ by Jason</p>
