@@ -30,10 +30,10 @@
 ---
 
 ### 🚀 Latest Projects
-- **[Project 1](https://github.com/yourusername/project1)**: Brief description of what it does.
+- **[E-Commerce Application Project](https://github.com/Jsn99/Bulky_MVC)**:
+I am developing a comprehensive e-commerce application using ASP.NET Core MVC, Entity Framework Core, and ASP.NET Core Identity. This project features user authentication and role management, CRUD operations, and secure payment processing with Stripe. It also includes deployment on Microsoft Azure and IIS, along with responsive design using Bootstrap v5.
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jsn99&show_icons=true&theme=radical" alt="GitHub Stats" />
