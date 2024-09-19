@@ -2,8 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> •
+  <a href="https://www.linkedin.com/in/jason-bruno-dsouza/" target="_blank">LinkedIn</a> •
   <a href="mailto:jasondsouza99@gmail.com">Email</a>
 </p>
 
@@ -12,7 +11,6 @@
 ### 👨‍💻 About Me
 - 🌱 Currently working on **Microservices**
 - 🔍 Learning **C#, .NET, React, and Redux**
-- 💬 Ask me about **JavaScript** and **web development**
 
 ---
 
