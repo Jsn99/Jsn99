@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jason Bruno Dsouza 👋</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jason-bruno-dsouza/" target="_blank">LinkedIn</a> •
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently working on **Microservices**
-- 🔍 Learning **C#, .NET, React, and Redux**
+- 💬 Ask me about **C#, .NET, React, Redux and MS SQL Server**
 
 ---
 
