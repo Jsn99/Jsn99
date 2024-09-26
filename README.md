@@ -54,4 +54,3 @@ Feel free to reach out via [Email](mailto:jasondsouza99@gmail.com) or connect wi
 
 ---
 
-<p align="center">Made with ❤️ by Jason</p>
